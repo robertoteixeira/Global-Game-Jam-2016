@@ -1,0 +1,80 @@
+<texts>
+
+  <!--MainMenu-->
+  <text>
+    <id>start</id>
+    <content>START</content>
+  </text>
+  <text>
+    <id>languages</id>
+    <content>LANGUAGES</content>
+  </text>
+  <text>
+    <id>credits</id>
+    <content>CREDITS</content>
+  </text>
+  <text>
+    <id>back</id>
+    <content>Click on the screen or press Return to go back...</content>
+  </text>
+  <text>
+    <id>art</id>
+    <content>DESIGN / ART</content>
+  </text>
+  <text>
+    <id>program</id>
+    <content>PROGRAMMING</content>
+  </text>
+  <!--Fim MainMenu-->
+
+  <!--Game-->
+  <text>
+    <id>paused</id>
+    <content>PAUSED</content>
+  </text>
+  <text>
+    <id>restart</id>
+    <content>RESTART</content>
+  </text>
+  <text>
+    <id>quit</id>
+    <content>QUIT</content>
+  </text>
+  <!--Fim Game-->
+  
+  <!--Dialogos-->
+  <text>
+    <id>fala1</id>
+    <content>Pizza Ritual Summom of Evil Creatures, good morning, how can I help you?</content>
+  </text>
+  <text>
+    <id>fala2</id>
+    <content>I would like to order two pizzas, one of goat heart, one chicken voodoo.</content>
+  </text>
+  <text>
+    <id>fala3</id>
+    <content>Okay sir, maiden blood to drink?</content>
+  </text>
+  <text>
+    <id>fala4</id>
+    <content>No, thanks.</content>
+  </text>
+  <text>
+    <id>fala5</id>
+    <content>The delivery's on the way, your order will arrive soon.</content>
+  </text>
+  <text>
+    <id>fala6</id>
+    <content>Come quickly, because I'm so hungry!</content>
+  </text>
+  <text>
+    <id>continue</id>
+    <content>Click on the screen or press Return to continue...</content>
+  </text>  SEM GORJETA!
+  <text>
+    <id>tip</id>
+    <content>NO TIP!</content>
+  </text>
+  <!--Fim Dialogos-->
+
+</texts>

@@ -1,0 +1,80 @@
+<texts>
+
+  <!--MainMenu-->
+  <text>
+    <id>start</id>
+    <content>INICIAR</content>
+  </text>
+  <text>
+    <id>languages</id>
+    <content>IDIOMAS</content>
+  </text>
+  <text>
+    <id>credits</id>
+    <content>CRÉDITOS</content>
+  </text>
+
+  <text>
+    <id>back</id>
+    <content>Clique na tela ou pressione enter para voltar...</content>
+  </text>
+  <text>
+    <id>art</id>
+    <content>DESIGN / ARTE</content>
+  </text>
+  <text>
+    <id>program</id>
+    <content>PROGRAMAÇÃO</content>
+  </text>
+  <!--Fim MainMenu-->
+
+  <!--Game-->
+  <text>
+    <id>paused</id>
+    <content>PAUSADO</content>
+  </text>
+  <text>
+    <id>restart</id>
+    <content>REINICIAR</content>
+  </text>
+  <text>
+    <id>quit</id>
+    <content>SAIR</content>
+  </text>
+  <!--Fim Game-->
+
+<!--Dialogos-->
+    <text>
+    <id>fala1</id>
+    <content>Pizzaria Ritual de Evocações das Criaturas Malignas. Bom dia, em que posso ajudá-lo?</content>
+  </text>
+  <text>
+    <id>fala2</id>
+    <content>Gostaria de pedir uma pizza meio coração de cabra, meio frango de macumba.</content>
+  </text>
+  <text>
+    <id>fala3</id>
+    <content>Ok senhor, sangue de donzela acompanha?</content>
+  </text>
+  <text>
+    <id>fala4</id>
+    <content>Não, obrigado.</content>
+  </text>
+  <text>
+    <id>fala5</id>
+    <content>O entregador já está a caminho, seu pedido chegará em breve.</content>
+  </text>
+  <text>
+    <id>fala6</id>
+    <content>Venha logo, estou com muita fome!</content>
+  </text>
+  <text>
+    <id>continue</id>
+    <content>Clique na tela ou pressione enter para continuar...</content>
+  </text>  SEM GORJETA!
+  <text>
+    <id>tip</id>
+    <content>SEM GORJETA!</content>
+  </text>  
+  <!--Fim Dialogos-->
+</texts>
