@@ -6,8 +6,8 @@ This game was developed for GGJ 2016, the theme was Ritual.
 
 ## Dependencies
 
-Unity 5.x  
-Visual Studio 2017
+* Unity 5.x  
+* Visual Studio 2017
 
 ## Authors
 
